@@ -19,18 +19,18 @@ This project is a **Proof of Concept (POC)** that demonstrates the integration o
 
 ## 📋 Table of Contents
 
-- [System Architecture](#-system-architecture)
+- [System Architecture](#️-system-architecture)
 - [Data Flow](#-data-flow)
 - [Features](#-features)
 - [Use Cases](#-use-cases)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#️-tech-stack)
 - [Database Schema](#-database-schema)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Sample Queries](#-sample-queries)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
+- [Contact & Support](#-contact--support)
 
 ## 🏗️ System Architecture
 
